@@ -1,4 +1,5 @@
 const SUPABASE_URL = "https://ljhnlmburyxsbdlxqyxe.supabase.co";
+const METADATA_API = "https://eqwxy.aiccloud.online";
 
 export default {
   async fetch(request) {
